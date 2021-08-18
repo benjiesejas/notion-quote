@@ -29,3 +29,8 @@ Here is an example for [my gist](https://gist.github.com/saman/a4326228c01f7fe15
 ```
 https://saman.dev/notion-quote/?f=https://gist.githubusercontent.com/saman/a4326228c01f7fe15de6707655352300/raw/6ae8c92baae70fb842ddf91f3465ccab5f7b1622/my-notion-quote.json
 ```
+
+Benjie own gist (https://gist.github.com/benjiesejas/8624c89b8034cbe5b0e362ba182eede1)
+```
+https://saman.dev/notion-quote/?f=https://gist.github.com/benjiesejas/8624c89b8034cbe5b0e362ba182eede1
+```
